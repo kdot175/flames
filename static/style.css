@@ -1,0 +1,46 @@
+
+h1  span{
+    text-align:center ;
+    font-family:cursive ;
+    font-size:100px;
+    color:#ed077e;
+    
+}
+h1{
+    text-align:center ;
+}
+body {
+    
+    background-image:url("https://media1.tenor.com/images/c0ea2a8783abb173d0761220c32782ae/tenor.gif");
+    background-size:cover;
+    background-color:pink;
+    text-align:center ;
+}
+input [type=text]{
+  font-size:30px;
+  border: 5px red;
+
+}
+input [type=submit]{
+    padding:100px;
+    font-family:cursive;
+    font-size:50px;
+    color:#ffc7ed;
+}
+div .form {
+    text-align: center;
+    padding:100px;
+    font-family:cursive;
+    font-size:50px;
+    color:#ffc7ed;
+}
+div .footer{
+    padding-top:500px;
+    padding-right:500px;
+    font-size:15px;
+    font-family:bold;
+    color:black;
+}
+.page{ 
+    text-align:center;
+}
